@@ -1,3 +1,4 @@
 1. Requirement Analysis
 2. Design
-Code
+3. Code
+4. Testing
